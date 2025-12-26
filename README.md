@@ -12,7 +12,7 @@ Operations teams → Punctuality, delays, and route performance
 
 Customer & commercial teams → Pricing, refunds, and purchase behavior
 
-📂 Dataset Description
+**📂 Dataset Description**
 
 Source: Maven Analytics – UK Train Rides Dataset
 
@@ -28,7 +28,7 @@ Pricing & discount indicators (railcard, advance/off-peak/anytime)
 
 Journey information (stations, dates, times)
 
-🧱 Data Modeling Approach
+**🧱 Data Modeling Approach**
 
 Although the source data was a single flat table, it was treated as a fact table and remodeled into a star schema to enable scalable analysis and efficient DAX calculations.
 
@@ -44,7 +44,7 @@ Data model enhancements:
 
 This approach reflects real-world BI best practices and improves performance, readability, and extensibility.
 
-📊 Key KPIs & Metrics
+**📊 Key KPIs & Metrics**
 
 The report includes business-critical metrics such as:
 
@@ -64,8 +64,9 @@ Revenue at Risk due to delays
 
 Advanced DAX measures were used for time intelligence, ratios, and performance benchmarking.
 
-📈 Dashboard Pages & Analysis
-1️⃣ Executive Overview Dashboard
+**📈 Dashboard Pages & Analysis**
+
+**1️⃣ Executive Overview Dashboard**
 
 Purpose: Provide senior stakeholders with a high-level view of business performance, punctuality, and customer impact.
 
@@ -87,7 +88,7 @@ Are delays and cancellations impacting revenue and customer experience?
 
 Which ticket types and channels contribute most to revenue?
 
-2️⃣ Operations & Punctuality Dashboard
+**2️⃣ Operations & Punctuality Dashboard**
 
 Purpose: Enable operations teams to identify delay patterns and performance issues across routes and time periods.
 
@@ -109,7 +110,7 @@ What are the primary reasons for delays and cancellations?
 
 When do delays occur most frequently (time of day, date)?
 
-3️⃣ Customer & Ticket Insights Dashboard
+**3️⃣ Customer & Ticket Insights Dashboard**
 
 Purpose: Analyze customer behavior, pricing, and refund drivers to support commercial and customer experience decisions.
 
@@ -131,7 +132,7 @@ What factors drive refund requests?
 
 Do purchase channels or ticket characteristics influence customer outcomes?
 
-💡 Key Insights (Examples)
+**💡 Key Insights**
 
 A small number of routes account for a disproportionately high share of delays and refund requests
 
@@ -141,7 +142,7 @@ Advance and Off-Peak tickets drive volume but increase sensitivity to delays
 
 Certain delay reasons consistently lead to higher refund rates, increasing revenue risk
 
-🛠️ Tools & Skills Demonstrated
+**🛠️ Tools & Skills Demonstrated**
 
 Power BI (Data modeling, DAX, dashboard design)
 
@@ -151,7 +152,7 @@ Data storytelling & stakeholder-focused design
 
 Business & operational analytics
 
-🚀 Potential Enhancements
+**🚀 Potential Enhancements**
 
 Predictive modeling for delay likelihood
 
@@ -167,6 +168,6 @@ UK Train Rides Report.pbix – Power BI report file
 railway - Raw sales dataset
 railway_data_dictionary
 
-📬 Contact
+**📬 Contact**
 
 If you’d like to discuss this project or similar analytics work, feel free to connect with me on LinkedIn: https://www.linkedin.com/in/shankar-narayanan-iyer/ or explore my other projects on GitHub.
