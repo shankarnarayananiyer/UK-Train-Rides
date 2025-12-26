@@ -1,5 +1,6 @@
-🚆 UK Train Rides Analysis | Power BI Dashboard
-📌 Project Overview
+**🚆 UK Train Rides Analysis | Power BI Dashboard**
+
+**📌 Project Overview**
 
 This project analyzes UK train ticket purchases and journey performance to uncover insights related to revenue, customer behavior, punctuality, delays, and refunds. Using Power BI, I built an end-to-end analytics solution that transforms raw transactional data into actionable insights for business, operations, and customer experience teams.
 
