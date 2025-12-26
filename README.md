@@ -1,3 +1,4 @@
+<img width="1260" height="726" alt="image" src="https://github.com/user-attachments/assets/2e6d7c20-571f-4397-a231-de867e081ae6" />
 **🚆 UK Train Rides Analysis | Power BI Dashboard**
 
 **📌 Project Overview**
